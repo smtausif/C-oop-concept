@@ -1,0 +1,6 @@
+Polymorphiosm: Polymorphiosm describes the ability of objects to have multiple forms
+                that means we can have two or more objects that inheritate from the same base class
+                and those objects can have the method that has the same name but different implementation
+
+
+
